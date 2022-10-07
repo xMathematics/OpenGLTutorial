@@ -1,6 +1,6 @@
 # StudyOpenGL
 
-
+```c
 安装git后
 $ git config --global user.name "Your Name"
 $ git config --global user.email "email@example.com"
@@ -82,3 +82,4 @@ $ git tag -d 标签名 删除标签
 $ git push origin 标签名 推送某个标签到远程
 $ git push origin --tags 推送所有标签
 $ git push origin :refs/tags/<tagname> 可以删除一个远程标签。
+```
