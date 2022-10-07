@@ -6,7 +6,7 @@ $ git config --global user.name "Your Name"
 $ git config --global user.email "email@example.com"
 
 $ ssh-keygen -t rsa -C "youremail@example.com" 创建ssh key，用于和github通信
-(秘钥存储于C:\Users\27634\.ssh，把公钥id_rsa.pub存储于github)
+(秘钥存储于 root用户创建的密钥  /root/.ssh，把公钥id_rsa.pub存储于github)
 
 创建版本库
 $ pwd 命令用于显示当前目录(没啥用)
