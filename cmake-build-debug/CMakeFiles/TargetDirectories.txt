@@ -1,0 +1,3 @@
+E:/Workspace/CodeWorkspace/JetbrainsCode/CLion/OpenGLTutorial/cmake-build-debug/CMakeFiles/OpenGLTutorial.dir
+E:/Workspace/CodeWorkspace/JetbrainsCode/CLion/OpenGLTutorial/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Workspace/CodeWorkspace/JetbrainsCode/CLion/OpenGLTutorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
